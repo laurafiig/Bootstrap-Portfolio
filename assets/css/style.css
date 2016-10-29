@@ -1,0 +1,55 @@
+body {
+	background-image: url("../images/ice_age.png");
+}
+
+.mypic {
+    float: left;
+    padding: 0 10px 10px 0;
+}
+
+.linkicons {
+	padding: 20px;
+}
+
+
+.projlink { 
+   position: relative; 
+   padding: 10px;
+   float: left;
+   margin: 20px
+}
+
+.proj {
+	background-color: #446e9b;
+	color: #ffffff;
+    text-align: center;
+	padding: 10px;
+	position: absolute; 
+    top: 160px; 
+    left: 10; 
+    width: 200px;
+}
+
+.cnct {
+	text-align: center;
+}
+
+.cpyrt {
+	text-align: center; 
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
