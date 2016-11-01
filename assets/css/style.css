@@ -13,7 +13,7 @@ body {
 .projlink { 
    position: relative; 
    padding: 10px;
-   float: left;
+   /*float: left;*/
    margin: 20px
 }
 
